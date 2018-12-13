@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/ayu/ayu-dark.tmTheme",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"JavaScript",
+		"Vintage"
+	],
+	"tab_size": 2,
+	"theme": "ayu-dark.sublime-theme"
+}

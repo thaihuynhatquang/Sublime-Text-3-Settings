@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"Anaconda",
+		"AutoFileName",
+		"ayu",
+		"Babel",
+		"Bootstrap 3 Autocomplete",
+		"Bootstrap 3 Snippets",
+		"Color Highlight",
+		"CSS Format",
+		"CSS3",
+		"Emmet",
+		"ESLint-Formatter",
+		"Firebase Snippets",
+		"Flow",
+		"Git",
+		"GitGutter",
+		"HTML Snippets",
+		"HTML5",
+		"Package Control",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets Airbnb",
+		"Vuetify"
+	]
+}
